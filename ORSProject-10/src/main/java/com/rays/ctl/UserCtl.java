@@ -8,3 +8,4 @@ import com.rays.service.UserServiceInt;
 public class UserCtl extends BaseCtl<UserForm, UserDTO, UserServiceInt> {
 
 }
+	
